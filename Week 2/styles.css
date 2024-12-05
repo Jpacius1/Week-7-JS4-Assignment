@@ -1,0 +1,52 @@
+/*
+selector {
+    property : value;
+}
+*/
+
+/* ID Selectors  */
+#wrapper {margin: 40px;
+text-align: center;
+}
+#second-li, #third-li {
+    color: magenta;
+}
+/* Class Selectors */
+.magenta-text {
+    color: magenta;
+    text-decoration: underline;
+}
+
+.dashed-border {
+    border: 3px dashed black;
+}      
+
+
+
+/* Element Selctors */
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-style: italic;
+    font-weight: bold;
+    font-size: 90%;
+
+}
+
+h1, h3 {
+    color: red;
+    background-color: black;
+}
+h2, h4 {
+    color: blue;
+    background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
